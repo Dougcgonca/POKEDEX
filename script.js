@@ -105,6 +105,5 @@ const addClick = (poke, color) => {
 
 }
 
-
 fetchPokemons()
 
